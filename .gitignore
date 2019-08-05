@@ -1,0 +1,14 @@
+target/*
+.idea/*
+*.class
+*.aux
+*.log
+*.pdf
+*.gz
+*.bbl
+*.blg
+*.out
+*.bak
+*.sav
+result/*
+doc/*
