@@ -10,5 +10,7 @@ target/*
 *.out
 *.bak
 *.sav
+*.iml
 result/*
 doc/*
+
