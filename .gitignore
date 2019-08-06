@@ -12,3 +12,4 @@ target/*
 *.sav
 result/*
 doc/*
+*.iml
